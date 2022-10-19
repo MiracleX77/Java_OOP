@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../pythonchallenge/SF210Final"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"JAVA",
+			"New folder/OOP/src"
+		]
+	}
+}
